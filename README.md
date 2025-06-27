@@ -325,7 +325,7 @@ timeline
   **💡 "Turning complex problems into elegant solutions, one commit at a time!" 💡**
   
   <!-- Animated Visitor Badge -->
-  <img src="https://visitcount.itsvg.in/api?id=amandzaa&icon=5&color=6" />
+  <img src="https://komarev.com/ghpvc/?username=amandzaa&color=667eea&style=for-the-badge&label=👁️+Profile+Views" />
   
   <!-- GitHub Follow Button -->
   [![GitHub followers](https://img.shields.io/github/followers/amandzaa?label=Follow%20%40amandzaa&style=social)](https://github.com/amandzaa)
