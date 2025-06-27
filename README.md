@@ -3,10 +3,10 @@
 <div align="center">
   
   <!-- Animated Header -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Full-Stack%20Engineer&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Turning%20Ideas%20Into%20Digital%20Reality&descAlignY=51&descAlign=50" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Full-Stack%20Software%20Engineer&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Turning%20Ideas%20Into%20Digital%20Reality&descAlignY=51&descAlign=50" />
   
   <!-- Typing Animation -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=800&color=667EEA&center=true&vCenter=true&multiline=true&width=800&height=100&lines=🚀+Full-Stack+Software+Engineer;⚡+System+Integration+Specialist;💼+10%2B+Years+Engineering+Experience;🎯+Passionate+Problem+Solver;🌟+Building+Tomorrow's+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=800&color=667EEA&center=true&vCenter=true&multiline=true&width=800&height=200&lines=🚀+Full-Stack+Software+Engineer;⚡+System+Integration+Specialist;💼+10%2B+Years+Engineering+Experience;🎯+Passionate+Problem+Solver;🌟+Building+Tomorrow's+Solutions" alt="Typing SVG" />
   
   <!-- Profile Views Counter with Animation -->
   <img src="https://komarev.com/ghpvc/?username=amandzaa&color=667eea&style=for-the-badge&label=👁️+Profile+Views" />
@@ -77,7 +77,6 @@ const rizkyAmanda = {
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white" />
 
 ### 🛠️ Tools & Infrastructure
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -95,7 +94,7 @@ const rizkyAmanda = {
 <div align="center">
   
   <!-- Animated Stats Cards -->
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=amandzaa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=73BCF7&border_radius=10" />
+  <img height="180em" src="C" />
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=amandzaa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=73BCF7&border_radius=10&langs_count=10" />
   
 </div>
@@ -104,12 +103,12 @@ const rizkyAmanda = {
   
   <!-- GitHub Streak Stats -->
   <img src="https://streak-stats.demolab.com/?user=amandzaa&theme=tokyonight&hide_border=true&background=0D1117&stroke=73BCF7&ring=F85D7F&fire=F8D866&currStreakLabel=73BCF7&sideNums=73BCF7&currStreakNum=F8D866&dates=73BCF7&sideLabels=F85D7F" />
-  
+
 </div>
 
 <!-- Activity Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amandzaa&custom_title=Rizky's%20Contribution%20Graph&bg_color=0D1117&color=73BCF7&line=F85D7F&point=F8D866&area_color=F85D7F&area=true&hide_border=true&radius=10" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amandzaa&custom_title=Amanda's%20Contribution%20Graph&bg_color=0D1117&color=73BCF7&line=F85D7F&point=F8D866&area_color=F85D7F&area=true&hide_border=true&radius=10" />
 </div>
 
 ### 📊 Real-time Language Usage
@@ -117,7 +116,7 @@ const rizkyAmanda = {
 <div align="center">
   
   <!-- Animated Language Stats -->
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=amandzaa&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=73BCF7&icon_color=F8D866&layout=compact" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=amandzaa&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=73BCF7&icon_color=F8D866&layout=compact" />
   
   <!-- Language Percentage with Progress Bars -->
   
@@ -270,32 +269,87 @@ timeline
 
 </div>
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25"> Let's Connect & Collaborate!
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Let's Connect & Collaborate!
 
 <div align="center">
-  
-  <!-- 3D Social Links -->
+
+### 🌟 Ready to build something amazing together? Let's connect! 🌟
+
+<br>
+
+<!-- Enhanced Social Links with Hover Effects -->
+<table align="center">
+<tr>
+<td align="center" width="150">
   <a href="https://www.linkedin.com/in/rizky-amanda">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20" />
   </a>
+  <br>
+  <sub><b>Professional Network</b></sub>
+</td>
+<td align="center" width="150">
   <a href="https://github.com/amandzaa">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <br>
+  <sub><b>Code Repository</b></sub>
+</td>
+<td align="center" width="150">
   <a href="mailto:amandarizkyky@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <br>
+  <sub><b>Direct Contact</b></sub>
+</td>
+<td align="center" width="150">
   <a href="https://wa.me/+6285774441992">
     <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-  
-  <br><br>
-  
-  <!-- Animated Contact Me Button -->
-  <a href="mailto:amandarizkyky@gmail.com">
-    <img src="https://img.shields.io/badge/📧_Contact_Me-Click_Here-FF6B6B?style=for-the-badge&logoColor=white&labelColor=FF6B6B&color=4ECDC4&borderRadius=10" />
-  </a>
-  
+  <br>
+  <sub><b>Quick Chat</b></sub>
+</td>
+</tr>
+</table>
+
+<br>
+<!-- Fun Stats About Connections -->
+<div align="center">
+
+**🌍 Currently connecting with developers worldwide • 🕒 Based in Tangerang, Indonesia (GMT+7)**
+
 </div>
+
+<!-- Collaboration Call-to-Action -->
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 15px; margin: 20px 0;">
+
+### 💼 Open for Opportunities
+
+<img src="https://img.shields.io/badge/🚀-Full--Stack_Development-4ECDC4?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/⚡-System_Integration-F8D866?style=for-the-badge&logoColor=black" />
+<img src="https://img.shields.io/badge/🎯-Consulting-FF6B6B?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/🤝-Collaboration-6C5CE7?style=for-the-badge&logoColor=white" />
+
+</div>
+
+
+
+<!-- Contact Preference Matrix -->
+| 📞 **Contact Method** | ⚡ **Response Time** | 📋 **Best For** |
+|:---:|:---:|:---:|
+| 📧 **Email** | Within 24 hours | Project discussions, formal inquiries |
+| 💼 **LinkedIn** | Same day | Professional networking, career opportunities |
+| 💬 **WhatsApp** | Within hours | Quick questions, urgent matters |
+| 🐙 **GitHub** | When active | Code reviews, technical discussions |
+
+
+
+
+<!-- Quote Section -->
+<br>
+
+> *"Great things in business are never done by one person; they're done by a team of people."* - **Steve Jobs**
+
+<br>
 
 ## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="25"> Current Objectives
 
